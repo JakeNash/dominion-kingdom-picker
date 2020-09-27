@@ -1,0 +1,570 @@
+[
+  {
+    "box": "Menagerie",
+    "name": "Black Cat",
+    "cardType": "Action|Attack|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Sleigh",
+    "cardType": "Action|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Supplies",
+    "cardType": "Treasure",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Camel Train",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Goatherd",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Scrap",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Sheepdog",
+    "cardType": "Action|Reaction",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Snowy Village",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Stockpile",
+    "cardType": "Treasure",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Bounty Hunter",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Cardinal",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Cavalry",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Groom",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Hostelry",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Village Green",
+    "cardType": "Action|Duration|Reaction",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Barge",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Coven",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Displace",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Falconer",
+    "cardType": "Action|Reaction",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Gatekeeper",
+    "cardType": "Action|Duration|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Hunting Lodge",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Kiln",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Livery",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Mastermind",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Paddock",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Sanctuary",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Fisherman",
+    "cardType": "Action",
+    "cost": "5*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Destrier",
+    "cardType": "Action",
+    "cost": "6*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Wayfarer",
+    "cardType": "Action",
+    "cost": "6*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Animal Fair",
+    "cardType": "Action",
+    "cost": "7*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Horse",
+    "cardType": "Action",
+    "cost": "3*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Delay",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Desperation",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Gamble",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Pursue",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Ride",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Toil",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Enhance",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "March",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Transport",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Banish",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Bargain",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Invest",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Seize the Day",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Commerce",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Demand",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Stampede",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "Horses"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Reap",
+    "cardType": "Event",
+    "cost": "7",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Enclave",
+    "cardType": "Event",
+    "cost": "8",
+    "pickable": "Event",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Alliance",
+    "cardType": "Event",
+    "cost": "10",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Populate",
+    "cardType": "Event",
+    "cost": "10",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Butterfly",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Camel",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "Exile mat"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Chameleon",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Frog",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Goat",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Horse",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Mole",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Monkey",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Mouse",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "Unused Action costing 2 or 3"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Mule",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Otter",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Owl",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Ox",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Pig",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Rat",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Seal",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Sheep",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Squirrel",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Turtle",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "None"
+  },
+  {
+    "box": "Menagerie",
+    "name": "Way of the Worm",
+    "cardType": "Way",
+    "cost": "None",
+    "pickable": "Way",
+    "setup": "Exile mat"
+  }
+]

@@ -1,0 +1,4122 @@
+[
+  {
+    "box": "Basic",
+    "name": "Copper",
+    "cardType": "Treasure",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Curse",
+    "cardType": "Curse",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Estate",
+    "cardType": "Victory",
+    "cost": "2",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Silver",
+    "cardType": "Treasure",
+    "cost": "3",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Duchy",
+    "cardType": "Victory",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Gold",
+    "cardType": "Treasure",
+    "cost": "6",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Basic",
+    "name": "Province",
+    "cardType": "Victory",
+    "cost": "8",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Cellar",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Chapel",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Moat",
+    "cardType": "Action|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Harbinger",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Merchant",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Vassal",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Village",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Workshop",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Bureaucrat",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Gardens",
+    "cardType": "Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Militia",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Moneylender",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Poacher",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Remodel",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Smithy",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Throne Room",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Bandit",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Council Room",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Festival",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Laboratory",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Library",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Market",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Mine",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Sentry",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion",
+    "name": "Witch",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion2",
+    "name": "Artisan",
+    "cardType": "Action",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Chancellor",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Woodcutter",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Feast",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Spy",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Thief",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dominion1",
+    "name": "Adventurer",
+    "cardType": "Action",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Courtyard",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Lurker",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Pawn",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Masquerade",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Shanty Town",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Steward",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Swindler",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Wishing Well",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Baron",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Bridge",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Conspirator",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Diplomat",
+    "cardType": "Action|Reaction",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Ironworks",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Mill",
+    "cardType": "Action|Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Mining Village",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Secret Passage",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Courtier",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Duke",
+    "cardType": "Victory",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Minion",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Patrol",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue2",
+    "name": "Replace",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Torturer",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Trading Post",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Upgrade",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Harem",
+    "cardType": "Treasure|Victory",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue",
+    "name": "Nobles",
+    "cardType": "Action|Victory",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Secret Chamber",
+    "cardType": "Action|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Great Hall",
+    "cardType": "Action|Victory",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Coppersmith",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Scout",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Saboteur",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Intrigue1",
+    "name": "Tribute",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Embargo",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Embargo tokens"
+  },
+  {
+    "box": "Seaside",
+    "name": "Haven",
+    "cardType": "Action|Duration",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Lighthouse",
+    "cardType": "Action|Duration",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Native Village",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Native Village mats"
+  },
+  {
+    "box": "Seaside",
+    "name": "Pearl Diver",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Ambassador",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Fishing Village",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Lookout",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Smugglers",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Warehouse",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Caravan",
+    "cardType": "Action|Duration",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Cutpurse",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Island",
+    "cardType": "Action|Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Island mats"
+  },
+  {
+    "box": "Seaside",
+    "name": "Navigator",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Pirate Ship",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Pirate Ship mats|Coin tokens"
+  },
+  {
+    "box": "Seaside",
+    "name": "Salvager",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Sea Hag",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Treasure Map",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Bazaar",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Explorer",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Ghost Ship",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Merchant Ship",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Outpost",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Tactician",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Treasury",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Seaside",
+    "name": "Wharf",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Potion",
+    "cardType": "Treasure",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Transmute",
+    "cardType": "Action",
+    "cost": "Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Vineyard",
+    "cardType": "Victory",
+    "cost": "Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Herbalist",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Apothecary",
+    "cardType": "Action",
+    "cost": "2+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Scrying Pool",
+    "cardType": "Action|Attack",
+    "cost": "2+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "University",
+    "cardType": "Action",
+    "cost": "2+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Alchemist",
+    "cardType": "Action",
+    "cost": "3+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Familiar",
+    "cardType": "Action|Attack",
+    "cost": "3+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Philosopher's Stone",
+    "cardType": "Treasure",
+    "cost": "3+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Golem",
+    "cardType": "Action",
+    "cost": "4+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Apprentice",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Alchemy",
+    "name": "Possession",
+    "cardType": "Action",
+    "cost": "6+Potion",
+    "pickable": "Card",
+    "setup": "Potions"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Platinum",
+    "cardType": "Treasure",
+    "cost": "9",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Colony",
+    "cardType": "Victory",
+    "cost": "11",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Loan",
+    "cardType": "Treasure",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Trade Route",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Trade Route mat|Coin tokens"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Watchtower",
+    "cardType": "Action|Reaction",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Bishop",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Monument",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Quarry",
+    "cardType": "Treasure",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Talisman",
+    "cardType": "Treasure",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Worker's Village",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "City",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Contraband",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Counting House",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Mint",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Mountebank",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Rabble",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Royal Seal",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Vault",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Venture",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Goons",
+    "cardType": "Action|Attack",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Grand Market",
+    "cardType": "Action",
+    "cost": "6*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Hoard",
+    "cardType": "Treasure",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Bank",
+    "cardType": "Treasure",
+    "cost": "7",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Expand",
+    "cardType": "Action",
+    "cost": "7",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Forge",
+    "cardType": "Action",
+    "cost": "7",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "King's Court",
+    "cardType": "Action",
+    "cost": "7",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Prosperity",
+    "name": "Peddler",
+    "cardType": "Action",
+    "cost": "8*",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Hamlet",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Fortune Teller",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Menagerie",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Farming Village",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Horse Traders",
+    "cardType": "Action|Reaction",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Remake",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Tournament",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Prizes"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Young Witch",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Bane"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Harvest",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Horn of Plenty",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Hunting Party",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Jester",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Fairgrounds",
+    "cardType": "Victory",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Bag of Gold",
+    "cardType": "Action|Prize",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Diadem",
+    "cardType": "Treasure|Prize",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Followers",
+    "cardType": "Action|Attack|Prize",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Princess",
+    "cardType": "Action|Prize",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Cornucopia",
+    "name": "Trusty Steed",
+    "cardType": "Action|Prize",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Crossroads",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Duchess",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Fool's Gold",
+    "cardType": "Treasure|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Develop",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Oasis",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Oracle",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Scheme",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Tunnel",
+    "cardType": "Victory|Reaction",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Jack of All Trades",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Noble Brigand",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Nomad Camp",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Silk Road",
+    "cardType": "Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Spice Merchant",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Trader",
+    "cardType": "Action|Reaction",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Cache",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Cartographer",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Embassy",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Haggler",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Highway",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Ill-Gotten Gains",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Inn",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Mandarin",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Margrave",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Stables",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Border Village",
+    "cardType": "Action",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Hinterlands",
+    "name": "Farmland",
+    "cardType": "Victory",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Abandoned Mine",
+    "cardType": "Action|Ruins",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Ruined Library",
+    "cardType": "Action|Ruins",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Ruined Market",
+    "cardType": "Action|Ruins",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Ruined Village",
+    "cardType": "Action|Ruins",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Survivors",
+    "cardType": "Action|Ruins",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Poor House",
+    "cardType": "Action",
+    "cost": "1",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Beggar",
+    "cardType": "Action|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Squire",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Vagrant",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Forager",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Hermit",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Madman pile"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Market Square",
+    "cardType": "Action|Reaction",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sage",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Storeroom",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Urchin",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Mercenary pile"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Armory",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Death Cart",
+    "cardType": "Action|Looter",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Ruins"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Feodum",
+    "cardType": "Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Fortress",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Ironmonger",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Marauder",
+    "cardType": "Action|Attack|Looter",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Ruins|Spoils"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Procession",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Rats",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Scavenger",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Wandering Minstrel",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Band of Misfits",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Bandit Camp",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Spoils"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Catacombs",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Count",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Counterfeit",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Cultist",
+    "cardType": "Action|Attack|Looter",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Ruins"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Graverobber",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Knights",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Mystic",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Pillage",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Spoils"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Rebuild",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Rogue",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Altar",
+    "cardType": "Action",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Hunting Grounds",
+    "cardType": "Action",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Dame Anna",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Dame Josephine",
+    "cardType": "Action|Attack|Knight|Victory",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Dame Molly",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Dame Natalie",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Dame Sylvia",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sir Bailey",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sir Destry",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sir Martin",
+    "cardType": "Action|Attack|Knight",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sir Michael",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Sir Vander",
+    "cardType": "Action|Attack|Knight",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Madman",
+    "cardType": "Action",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Mercenary",
+    "cardType": "Action|Attack",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Spoils",
+    "cardType": "Treasure",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Hovel",
+    "cardType": "Reaction|Shelter",
+    "cost": "1",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Necropolis",
+    "cardType": "Action|Shelter",
+    "cost": "1",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Dark Ages",
+    "name": "Overgrown Estate",
+    "cardType": "Victory|Shelter",
+    "cost": "1",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Candlestick Maker",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Guilds",
+    "name": "Stonemason",
+    "cardType": "Action",
+    "cost": "2+",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Doctor",
+    "cardType": "Action",
+    "cost": "3+",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Masterpiece",
+    "cardType": "Treasure",
+    "cost": "3+",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Advisor",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Plaza",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Guilds",
+    "name": "Taxman",
+    "cardType": "Action|Attack",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Herald",
+    "cardType": "Action",
+    "cost": "4+",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Baker",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers|Everyone +1 Coffer"
+  },
+  {
+    "box": "Guilds",
+    "name": "Butcher",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Guilds",
+    "name": "Journeyman",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Guilds",
+    "name": "Merchant Guild",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Guilds",
+    "name": "Soothsayer",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Coin of the Realm",
+    "cardType": "Treasure|Reserve",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Page",
+    "cardType": "Action|Traveller",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Page Progression pile"
+  },
+  {
+    "box": "Adventures",
+    "name": "Peasant",
+    "cardType": "Action|Traveller",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Peasant Progression pile"
+  },
+  {
+    "box": "Adventures",
+    "name": "Ratcatcher",
+    "cardType": "Action|Reserve",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Raze",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Amulet",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Caravan Guard",
+    "cardType": "Action|Duration|Reaction",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Dungeon",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Gear",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Guide",
+    "cardType": "Action|Reserve",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Duplicate",
+    "cardType": "Action|Reserve",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Magpie",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Messenger",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Miser",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Port",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Ranger",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Journey token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Transmogrify",
+    "cardType": "Action|Reserve",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Artificer",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Bridge Troll",
+    "cardType": "Action|Attack|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "-1 Coin token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Distant Lands",
+    "cardType": "Action|Reserve|Victory",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Giant",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Journey token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Haunted Woods",
+    "cardType": "Action|Attack|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Lost City",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Relic",
+    "cardType": "Treasure|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "-1 Card token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Royal Carriage",
+    "cardType": "Action|Reserve",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Storyteller",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Swamp Hag",
+    "cardType": "Action|Attack|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Treasure Trove",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Wine Merchant",
+    "cardType": "Action|Reserve",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Tavern mat"
+  },
+  {
+    "box": "Adventures",
+    "name": "Hireling",
+    "cardType": "Action|Duration",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Treasure Hunter",
+    "cardType": "Action|Traveller",
+    "cost": "3*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Warrior",
+    "cardType": "Action|Attack|Traveller",
+    "cost": "4*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Hero",
+    "cardType": "Action|Traveller",
+    "cost": "5*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Champion",
+    "cardType": "Action|Duration",
+    "cost": "6*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Soldier",
+    "cardType": "Action|Attack|Traveller",
+    "cost": "3*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Fugitive",
+    "cardType": "Action|Traveller",
+    "cost": "4*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Disciple",
+    "cardType": "Action|Traveller",
+    "cost": "5*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Teacher",
+    "cardType": "Action|Reserve",
+    "cost": "6*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Alms",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Borrow",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "-1 Card token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Quest",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Save",
+    "cardType": "Event",
+    "cost": "1",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Scouting Party",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Travelling Fair",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Bonfire",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Expedition",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Ferry",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "-2 Cost token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Plan",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "Trashing token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Mission",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Pilgrimage",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Journey token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Ball",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "-1 Coin token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Raid",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Seaway",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "+1 Buy token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Trade",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Adventures",
+    "name": "Lost Arts",
+    "cardType": "Event",
+    "cost": "6",
+    "pickable": "Event",
+    "setup": "+1 Action token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Training",
+    "cardType": "Event",
+    "cost": "6",
+    "pickable": "Event",
+    "setup": "+1 Coin token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Inheritance",
+    "cardType": "Event",
+    "cost": "7",
+    "pickable": "Event",
+    "setup": "Estate token"
+  },
+  {
+    "box": "Adventures",
+    "name": "Pathfinding",
+    "cardType": "Event",
+    "cost": "8",
+    "pickable": "Event",
+    "setup": "+1 Card token"
+  },
+  {
+    "box": "Empires",
+    "name": "Engineer",
+    "cardType": "Action",
+    "cost": "4 Debt",
+    "pickable": "Card",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "City Quarter",
+    "cardType": "Action",
+    "cost": "8 Debt",
+    "pickable": "Card",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Overlord",
+    "cardType": "Action",
+    "cost": "8 Debt",
+    "pickable": "Card",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Royal Blacksmith",
+    "cardType": "Action",
+    "cost": "8 Debt",
+    "pickable": "Card",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Encampment",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Plunder pile underneath"
+  },
+  {
+    "box": "Empires",
+    "name": "Plunder",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Patrician",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Emporium pile underneath"
+  },
+  {
+    "box": "Empires",
+    "name": "Emporium",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Settlers",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Bustling Village pile underneath"
+  },
+  {
+    "box": "Empires",
+    "name": "Bustling Village",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Castles",
+    "cardType": "Victory|Castle",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Catapult",
+    "cardType": "Action|Attack",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Rocks pile underneath"
+  },
+  {
+    "box": "Empires",
+    "name": "Rocks",
+    "cardType": "Treasure",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Chariot Race",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Enchantress",
+    "cardType": "Action|Attack|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Farmers' Market",
+    "cardType": "Action|Gathering",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Gladiator",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Fortune pile underneath"
+  },
+  {
+    "box": "Empires",
+    "name": "Fortune",
+    "cardType": "Treasure",
+    "cost": "8+8 Debt",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Sacrifice",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Temple",
+    "cardType": "Action|Gathering",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Villa",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Archive",
+    "cardType": "Action|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Capital",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Charm",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Crown",
+    "cardType": "Action|Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Forum",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Groundskeeper",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Legionary",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Wild Hunt",
+    "cardType": "Action|Gathering",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Humble Castle",
+    "cardType": "Treasure|Victory|Castle",
+    "cost": "3",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Crumbling Castle",
+    "cardType": "Victory|Castle",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Small Castle",
+    "cardType": "Action|Victory|Castle",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Haunted Castle",
+    "cardType": "Victory|Castle",
+    "cost": "6",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Opulent Castle",
+    "cardType": "Action|Victory|Castle",
+    "cost": "7",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Sprawling Castle",
+    "cardType": "Victory|Castle",
+    "cost": "8",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Grand Castle",
+    "cardType": "Victory|Castle",
+    "cost": "9",
+    "pickable": "False",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "King's Castle",
+    "cardType": "Victory|Castle",
+    "cost": "10",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Triumph",
+    "cardType": "Event",
+    "cost": "5 Debt",
+    "pickable": "Event",
+    "setup": "Victory Point tokens|Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Annex",
+    "cardType": "Event",
+    "cost": "8 Debt",
+    "pickable": "Event",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Donate",
+    "cardType": "Event",
+    "cost": "8 Debt",
+    "pickable": "Event",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Advance",
+    "cardType": "Event",
+    "cost": "0",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Delve",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Tax",
+    "cardType": "Event",
+    "cost": "2",
+    "pickable": "Event",
+    "setup": "Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Banquet",
+    "cardType": "Event",
+    "cost": "3",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Ritual",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Salt the Earth",
+    "cardType": "Event",
+    "cost": "4",
+    "pickable": "Event",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Wedding",
+    "cardType": "Event",
+    "cost": "4+3 Debt",
+    "pickable": "Event",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Windfall",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Conquest",
+    "cardType": "Event",
+    "cost": "6",
+    "pickable": "Event",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Dominate",
+    "cardType": "Event",
+    "cost": "14",
+    "pickable": "Event",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Aqueduct",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Arena",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Bandit Fort",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Basilica",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Baths",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Battlefield",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Colonnade",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Defiled Shrine",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Fountain",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Keep",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Labyrinth",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Mountain Pass",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens|Debt tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Museum",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Obelisk",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Orchard",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Palace",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Tomb",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Tower",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Triumphal Arch",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "Victory Point tokens"
+  },
+  {
+    "box": "Empires",
+    "name": "Wall",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "None"
+  },
+  {
+    "box": "Empires",
+    "name": "Wolf Den",
+    "cardType": "Landmark",
+    "cost": "None",
+    "pickable": "Landmark",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Druid",
+    "cardType": "Action|Fate",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Boons"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Faithful Hound",
+    "cardType": "Action|Reaction",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Guardian",
+    "cardType": "Night|Duration",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Monastery",
+    "cardType": "Night",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Pixie",
+    "cardType": "Action|Fate",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Boons|Goat heirloom"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Tracker",
+    "cardType": "Action|Fate",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Boons|Pouch heirloom"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Changeling",
+    "cardType": "Night",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Fool",
+    "cardType": "Action|Fate",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Lost in the Woods state|Boons|Lucky Coin heirloom"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Ghost Town",
+    "cardType": "Night|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Leprechaun",
+    "cardType": "Action|Doom",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Wish pile|Hexes|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Night Watchman",
+    "cardType": "Night",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Secret Cave",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Magic Lamp heirloom|Wish pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Bard",
+    "cardType": "Action|Fate",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Boons"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Blessed Village",
+    "cardType": "Action|Fate",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Boons"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Cemetary",
+    "cardType": "Victory",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Haunted Mirror heirloom|Ghost pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Conclave",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Devil's Workshop",
+    "cardType": "Night",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Imp pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Exorcist",
+    "cardType": "Night",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Will-o'-Wisp pile|Imp pile|Ghost pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Necromancer",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Zombies"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Shepherd",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Pasture heirloom"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Skulk",
+    "cardType": "Action|Attack|Doom",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Hexes|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Cobbler",
+    "cardType": "Night|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Crypt",
+    "cardType": "Night|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Cursed Village",
+    "cardType": "Action|Doom",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Hexes|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Den of Sin",
+    "cardType": "Night|Duration",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Idol",
+    "cardType": "Treasure|Attack|Fate",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Boons"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Pooka",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Cursed Gold heirloom"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Sacred Grove",
+    "cardType": "Action|Fate",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Boons"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Tormenter",
+    "cardType": "Action|Attack|Doom",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Imp pile|Hexes|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Tragic Hero",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Vampire",
+    "cardType": "Night|Attack|Doom",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Hexes|Bat pile|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Werewolf",
+    "cardType": "Action|Night|Attack|Doom",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Hexes|Deluded state|Envious state|Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Raider",
+    "cardType": "Night|Duration|Attack",
+    "cost": "6",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Haunted Mirror",
+    "cardType": "Treasure|Heirloom",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "Ghost pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Magic Lamp",
+    "cardType": "Treasure|Heirloom",
+    "cost": "0",
+    "pickable": "False",
+    "setup": "Wish pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Goat",
+    "cardType": "Treasure|Heirloom",
+    "cost": "2",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Pasture",
+    "cardType": "Treasure|Victory|Heirloom",
+    "cost": "2",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Pouch",
+    "cardType": "Treasure|Heirloom",
+    "cost": "2",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Cursed Gold",
+    "cardType": "Treasure|Heirloom",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Lucky Coin",
+    "cardType": "Treasure|Heirloom",
+    "cost": "4",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Will-o'-Wisp",
+    "cardType": "Action|Spirit",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Wish",
+    "cardType": "Action",
+    "cost": "0*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Bat",
+    "cardType": "Night",
+    "cost": "2*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Imp",
+    "cardType": "Action|Spirit",
+    "cost": "2*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Zombie Apprentice",
+    "cardType": "Action|Zombie",
+    "cost": "3",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Zombie Mason",
+    "cardType": "Action|Zombie",
+    "cost": "3",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Zombie Spy",
+    "cardType": "Action|Zombie",
+    "cost": "3",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Ghost",
+    "cardType": "Night|Duration|Spirit",
+    "cost": "4*",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Earth's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Field's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Flame's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Forest's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Moon's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Mountain's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The River's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Sea's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Sky's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Sun's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Swamp's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "Will-o'-Wisp pile"
+  },
+  {
+    "box": "Nocturne",
+    "name": "The Wind's Gift",
+    "cardType": "Boon",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Bad Omens",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Delusion",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "Deluded state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Envy",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "Envious state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Famine",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Fear",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Greed",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Haunting",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Locusts",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Misery",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "Miserable state|Twice Miserable state"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Plague",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Poverty",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "War",
+    "cardType": "Hex",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Deluded",
+    "cardType": "State",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Envious",
+    "cardType": "State",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Miserable",
+    "cardType": "State",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Twice Miserable",
+    "cardType": "State",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Nocturne",
+    "name": "Lost in the Woods",
+    "cardType": "State",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "Boons"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Border Guard",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Lantern|Horn"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Ducat",
+    "cardType": "Treasure",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Lackeys",
+    "cardType": "Action",
+    "cost": "2",
+    "pickable": "Card",
+    "setup": "Villagers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Acting Troupe",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Villagers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Cargo Ship",
+    "cardType": "Action|Duration",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Experiment",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Improve",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Flag Bearer",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Flag"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Hideout",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Inventor",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Mountain Village",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Patron",
+    "cardType": "Action|Reaction",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Villagers|Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Priest",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Research",
+    "cardType": "Action|Duration",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Silk Merchant",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Villagers|Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Old Witch",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Recruiter",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Villagers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Scepter",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Scholar",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Sculptor",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Villagers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Seer",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Spices",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Swashbuckler",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers|Treasure Chest"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Treasurer",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Key"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Villain",
+    "cardType": "Action|Attack",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Flag",
+    "cardType": "Artifact",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Horn",
+    "cardType": "Artifact",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Key",
+    "cardType": "Artifact",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Lantern",
+    "cardType": "Artifact",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Treasure Chest",
+    "cardType": "Artifact",
+    "cost": "None",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Cathedral",
+    "cardType": "Project",
+    "cost": "3",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "City Gate",
+    "cardType": "Project",
+    "cost": "3",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Pageant",
+    "cardType": "Project",
+    "cost": "3",
+    "pickable": "Project",
+    "setup": "Project tokens|Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Sewers",
+    "cardType": "Project",
+    "cost": "3",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Star Chart",
+    "cardType": "Project",
+    "cost": "3",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Exploration",
+    "cardType": "Project",
+    "cost": "4",
+    "pickable": "Project",
+    "setup": "Project tokens|Villagers|Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Fair",
+    "cardType": "Project",
+    "cost": "4",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Silos",
+    "cardType": "Project",
+    "cost": "4",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Sinister Plot",
+    "cardType": "Project",
+    "cost": "4",
+    "pickable": "Project",
+    "setup": "Project tokens|Coin tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Academy",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens|Villagers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Capitalism",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Fleet",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Guildhall",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens|Coffers"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Piazza",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Road Network",
+    "cardType": "Project",
+    "cost": "5",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Barracks",
+    "cardType": "Project",
+    "cost": "6",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Crop Rotation",
+    "cardType": "Project",
+    "cost": "6",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Innovation",
+    "cardType": "Project",
+    "cost": "6",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Canal",
+    "cardType": "Project",
+    "cost": "7",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Renaissance",
+    "name": "Citadel",
+    "cardType": "Project",
+    "cost": "8",
+    "pickable": "Project",
+    "setup": "Project tokens"
+  },
+  {
+    "box": "Promo",
+    "name": "Black Market",
+    "cardType": "Action",
+    "cost": "3",
+    "pickable": "Card",
+    "setup": "Black Market deck"
+  },
+  {
+    "box": "Promo",
+    "name": "Dismantle",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Envoy",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Sauna",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "Avanto pile underneath"
+  },
+  {
+    "box": "Promo",
+    "name": "Avanto",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "False",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Walled Village",
+    "cardType": "Action",
+    "cost": "4",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Governor",
+    "cardType": "Action",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Stash",
+    "cardType": "Treasure",
+    "cost": "5",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Prince",
+    "cardType": "Action",
+    "cost": "8",
+    "pickable": "Card",
+    "setup": "None"
+  },
+  {
+    "box": "Promo",
+    "name": "Summon",
+    "cardType": "Event",
+    "cost": "5",
+    "pickable": "Event",
+    "setup": "None"
+  }
+]
