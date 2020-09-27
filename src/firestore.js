@@ -2,7 +2,7 @@ var firebase = require('firebase/app');
 require('firebase/firestore');
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDvipFWkINbIoNIN1mRQ_wjNyh7qAB1NyM',
+  apiKey: '<SET ME>',
   authDomain: 'dominion-kingdom-picker.firebaseapp.com',
   databaseURL: 'https://dominion-kingdom-picker.firebaseio.com',
   projectId: 'dominion-kingdom-picker',
